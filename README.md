@@ -17,7 +17,7 @@ MySQL.connector<br>
 ### *Goals to reach :*
 - Web-Scraping data on XML pages
 - Web-Scraping data using selenium and Xpath
-- Impor data scraped on a database
+- Import data scraped on a database
 
 When running .ipynb files, I assume you have MySQL installed on your computer/notebook.
 
